@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"displayName": "Jsm VisualScripting Toolkit",
 	"description": "A collection of 2D premade scripts for Bolt/VisualScripting.",
-	"unity": "2021.1.1",
+	"unity": "2021.1",
 	"dependencies": {},
 	"keywords": [
 		"Bolt",
