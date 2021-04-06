@@ -4,8 +4,6 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-/SuperUnits/2DPlatformer/Advanced
-/SuperUnits/2DPlatformer/TestScripts
 
 # Visual Studio cache directory
 .vs/
