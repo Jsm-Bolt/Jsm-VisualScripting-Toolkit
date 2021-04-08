@@ -4,10 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
-[Ss]cenes/
-Scenes.meta
-Unity.VisualScripting.Generated/
-Unity.VisualScripting.Generated.meta
+
 
 # Visual Studio cache directory
 .vs/
